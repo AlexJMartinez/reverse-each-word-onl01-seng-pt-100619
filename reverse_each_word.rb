@@ -6,6 +6,4 @@ def reverse_each_word(string)
   #reverse_sentence = []
   #words.each do |word|
 
-
-  end
 end
